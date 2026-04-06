@@ -27,4 +27,5 @@ To explore Netflix dataset trends such as:
 - netflix_dataset.csv
 
 ## Author
-Your Name
+Bhavana Santosh Deshmukh
+
